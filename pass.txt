@@ -1,0 +1,9 @@
+admin
+password
+123456
+asd12345
+12345asd
+smithy 
+password
+usuarioabc
+contraseña
